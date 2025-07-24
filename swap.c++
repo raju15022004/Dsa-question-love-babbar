@@ -23,7 +23,7 @@ int main(){
    int odd[8] = {11,33,9,76,43};
 
    swapAlternate(even,8);
-   printArray(even,8);
+   printArray(even,(0,1));
 
    cout<<endl;
 
