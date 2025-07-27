@@ -27,8 +27,8 @@ void sortOne(int arr[],int n){
 
 int main(){
   int arr[8]={1,1,0,0,0,0,1,0};
-  sortOne(arr,8);
-  printArray(arr,8);
+  sortOne(arr,9);
+  printArray(arr,9);
 
   return 0;
 }
