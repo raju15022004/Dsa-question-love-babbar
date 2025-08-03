@@ -17,7 +17,7 @@ int findDuplicate(vector<int>&arr){
 }
 
 int main(){
-  vector<int> arr={1,2,3,2,4};
+  vector<int> arr={1,2,3,2,4,4};
   cout<<"Duplicate element is:" <<findDuplicate(arr)<<endl;
   return 0;
 }
