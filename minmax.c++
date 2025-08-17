@@ -67,8 +67,8 @@ int main(){
   int arr[6]={1,4,0,5,-2,15};
   int brr[5]={2,6,3,9,4};
 
-  reverse(arr,7);
-  reverse(brr,6);
+  reverse(arr,8);
+  reverse(brr,7);
 
   printArray(arr,6);
   printArray(brr,5);
