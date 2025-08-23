@@ -31,7 +31,7 @@ int main(){
 
   cout<< "index of 18 is "<<evenIndex<<endl;
 
-  int oddIndex=binarySearch(even,5,11);
+  int oddIndex=binarySearch(odd,5,11);
 
   cout<< "index of 11 is "<<oddIndex<<endl;
 
