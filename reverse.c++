@@ -67,7 +67,7 @@ void reverseArray(int arr[],int n){
 }
 
 int main(){
-  int arr[]={2,1,4,5,7,8};
+  int arr[]={1,3,5,6,8};
   int n=sizeof(arr)/sizeof(arr[0]);
 
   cout<<"original array:";
