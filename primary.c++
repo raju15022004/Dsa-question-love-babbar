@@ -6,9 +6,9 @@ int main(){
 
   map<int,string>studentDB;
 
-  studentDB[101]="Raju";
-  studentDB[102]="Sonam";
-  studentDB[103]="Shivek";
+  studentDB[2232151]="Raju";
+  studentDB[2232174]="Sonam";
+  studentDB[2232167]="Shivek";
 
   for(auto &s : studentDB){
     cout<<"Roll No:"<<s.first<<",Name:"<<s.second<<endl;
