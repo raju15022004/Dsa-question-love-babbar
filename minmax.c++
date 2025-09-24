@@ -65,7 +65,7 @@ void printArray(int arr[], int n){
 
 int main(){
   int arr[6]={2,4,5,7,8,9};
-  int brr[5]={2,6,3,9,4};
+  int brr[5]={3,5,6,7,8};
 
   reverse(arr,8);
   reverse(brr,7);
