@@ -10,7 +10,7 @@ void PrintArray(int arr[],int size){
 }
 
 int main(){
-  int numbers[]={10,20,30,40,50,60};
+  int numbers[]={1,2,3,4,5,67};
   int size=sizeof(numbers)/sizeof(numbers[0]);
 
   PrintArray(numbers,size);
