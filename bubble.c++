@@ -40,7 +40,7 @@
 using namespace std;
 
 int main(){
-  int arr[]={64,25,12,22,11,90};
+  int arr[]={2,3,4,6,7,89,2};
   int n=sizeof(arr)/sizeof(arr[0]);
 
 
