@@ -3,7 +3,7 @@ using namespace std;
 
 int factorial(int n){
 
-  int fact = 1;
+  int fact = 0;
 
   for(int i=1;i<=n;i++){
     fact = fact*i;
